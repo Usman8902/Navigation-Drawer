@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_gravity="fill"
-        android:background="#FFE5B4"
+        android:background="#FFCBA5"
         android:gravity="center"
         android:orientation="vertical">
 
@@ -19,7 +19,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
-            android:text="Welcome to the Quiz App!"
+            android:text="Welcome"
             android:textSize="24sp"
             android:textStyle="bold" />
 
@@ -27,7 +27,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="20dp"
-            android:text="Take quizzes and test your knowledge"
+            android:text="Take quizzes"
             android:textColor="@color/black"
             android:textSize="18sp" />
 
